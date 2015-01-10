@@ -1,0 +1,5 @@
+{
+	"ImportPath": "github.com/freeformz/interlix",
+	"GoVersion": "go1.4",
+	"Deps": []
+}
